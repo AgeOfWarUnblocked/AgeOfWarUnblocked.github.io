@@ -1,0 +1,2 @@
+version="tc-55";
+libs=["js/phaser/phaser-cachebuster.min.js?https://cdn.jsdelivr.net/npm/@azerion/phaser-cachebuster@2.0/build/phaser-cachebuster.min.js","js/phaser/phaser-spine.min.js?https://cdn.jsdelivr.net/npm/@azerion/phaser-spine@3.0/build/phaser-spine.min.js"];

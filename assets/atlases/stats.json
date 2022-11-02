@@ -1,0 +1,304 @@
+﻿{
+  "mob1age1": {
+    "name": "Club Man",
+    "attack": 16,
+    "experience": 40,
+    "rangeattack": 0,
+    "health": 55,
+    "gold": 15,
+    "dropgold": 20,
+    "range": 0,
+    "reload": 1
+  },
+  "mob2age1": {
+    "name": "Slingshot Man",
+    "attack": 10,
+    "experience": 60,
+    "rangeattack": 8,
+    "health": 42,
+    "gold": 25,
+    "dropgold": 25,
+    "range": 150,
+    "reload": 1
+  },
+  "mob3age1": {
+    "name": "Dino Rider",
+    "attack": 40,
+    "experience": 250,
+    "rangeattack": 0,
+    "health": 160,
+    "gold": 100,
+    "dropgold": 130,
+    "range": 0,
+    "reload": 3
+  },
+  "mob1age2": {
+    "name": "Swordsman",
+    "attack": 35,
+    "experience": 75,
+    "rangeattack": 0,
+    "health": 100,
+    "gold": 50,
+    "dropgold": 65,
+    "range": 0,
+    "reload": 2
+  },
+  "mob2age2": {
+    "name": "Archer",
+    "attack": 20,
+    "experience": 100,
+    "rangeattack": 9,
+    "health": 80,
+    "gold": 75,
+    "dropgold": 98,
+    "range": 200,
+    "reload": 1
+  },
+  "mob3age2": {
+    "name": "Knight",
+    "attack": 60,
+    "experience": 1500,
+    "rangeattack": 0,
+    "health": 300,
+    "gold": 500,
+    "dropgold": 650,
+    "range": 0,
+    "reload": 3
+  },
+  "mob1age3": {
+    "name": "Dueler",
+    "attack": 79,
+    "experience": 500,
+    "rangeattack": 0,
+    "health": 200,
+    "gold": 200,
+    "dropgold": 260,
+    "range": 0,
+    "reload": 3
+  },
+  "mob2age3": {
+    "name": "Musketeer",
+    "attack": 40,
+    "experience": 100,
+    "rangeattack": 20,
+    "health": 160,
+    "gold": 400,
+    "dropgold": 520,
+    "range": 200,
+    "reload": 3
+  },
+  "mob3age3": {
+    "name": "Cannoneer",
+    "attack": 120,
+    "experience": 3000,
+    "rangeattack": 0,
+    "health": 600,
+    "gold": 1000,
+    "dropgold": 1300,
+    "range": 0,
+    "reload": 6
+  },
+  "mob1age4": {
+    "name": "Melee Infantry",
+    "attack": 100,
+    "experience": 2100,
+    "rangeattack": 0,
+    "health": 350,
+    "gold": 1500,
+    "dropgold": 1950,
+    "range": 0,
+    "reload": 3
+  },
+  "mob2age4": {
+    "name": "Rifle Infantry",
+    "attack": 60,
+    "experience": 2500,
+    "rangeattack": 30,
+    "health": 300,
+    "gold": 2000,
+    "dropgold": 1950,
+    "range": 200,
+    "reload": 3
+  },
+  "mob3age4": {
+    "name": "Tank",
+    "attack": 300,
+    "experience": 20000,
+    "rangeattack": 0,
+    "health": 1200,
+    "gold": 7000,
+    "dropgold": 10000,
+    "range": 0,
+    "reload": 8
+  },
+  "mob1age5": {
+    "name": "God's Blade",
+    "attack": 250,
+    "experience": 10000,
+    "rangeattack": 0,
+    "health": 1000,
+    "gold": 5000,
+    "dropgold": 6500,
+    "range": 0,
+    "reload": 3
+  },
+  "mob2age5": {
+    "name": "Blaster",
+    "attack": 130,
+    "experience": 15000,
+    "rangeattack": 80,
+    "health": 800,
+    "gold": 6000,
+    "dropgold": 7800,
+    "range": 200,
+    "reload": 3
+  },
+  "mob3age5": {
+    "name": "War Machine",
+    "attack": 600,
+    "experience": 30000,
+    "rangeattack": 0,
+    "health": 3000,
+    "gold": 20000,
+    "dropgold": 26000,
+    "range": 0,
+    "reload": 8
+  },
+  "mob4age5": {
+    "name": "Super Soldier",
+    "attack": 400,
+    "experience": 100000,
+    "rangeattack": 400,
+    "health": 4000,
+    "gold": 100000,
+    "dropgold": 175000,
+    "range": 300,
+    "reload": 3
+  },
+  "turrel1age1": {
+    "name": "Rock Slingshot",
+    "attack": 12,
+    "gold": 100,
+    "range": 668,
+    "attackFrameCount": 32,
+    "speed": 30
+  },
+  "turrel2age1": {
+    "name": "Egg Automatic",
+    "attack": 5,
+    "gold": 200,
+    "range": 668,
+    "attackFrameCount": 10,
+    "speed": 3
+  },
+  "turrel3age1": {
+    "name": "Primitive Catapult",
+    "attack": 25,
+    "gold": 500,
+    "range": 668,
+    "attackFrameCount": 55,
+    "speed": 25
+  },
+  "turrel1age2": {
+    "name": "Catapult",
+    "attack": 40,
+    "gold": 500,
+    "range": 668,
+    "attackFrameCount": 99,
+    "speed": 70
+  },
+  "turrel2age2": {
+    "name": "Fire Catapult",
+    "attack": 50,
+    "gold": 750,
+    "range": 668,
+    "attackFrameCount": 99,
+    "speed": 70
+  },
+  "turrel3age2": {
+    "name": "Heated Tar",
+    "attack": 0.15,
+    "gold": 1000,
+    "range": 400,
+    "attackFrameCount": 77,
+    "speed": 100
+  },
+  "turrel1age3": {
+    "name": "Small turret",
+    "attack": 30,
+    "gold": 1500,
+    "range": 668,
+    "attackFrameCount": 45,
+    "speed": 70
+  },
+  "turrel2age3": {
+    "name": "Large turret",
+    "attack": 70,
+    "gold": 3000,
+    "range": 800,
+    "attackFrameCount": 80,
+    "speed": 70
+  },
+  "turrel3age3": {
+    "name": "Explosives turret",
+    "attack": 100,
+    "gold": 6000,
+    "range": 668,
+    "attackFrameCount": 80,
+    "speed": 70
+  },
+  "turrel1age4": {
+    "name": "Modern Turret",
+    "attack": 70,
+    "gold": 7000,
+    "range": 668,
+    "attackFrameCount": 45,
+    "speed": 40
+  },
+  "turrel2age4": {
+    "name": "Rocket Launcher",
+    "attack": 100,
+    "gold": 9000,
+    "range": 668,
+    "attackFrameCount": 40,
+    "speed": 50
+  },
+  "turrel3age4": {
+    "name": "Advanced Turret",
+    "attack": 60,
+    "gold": 14000,
+    "range": 750,
+    "attackFrameCount": 40,
+    "speed": 6
+  },
+  "turrel1age5": {
+    "name": "Green Plasma Cannon",
+    "attack": 100,
+    "gold": 24000,
+    "range": 800,
+    "attackFrameCount": 40,
+    "speed": 40
+  },
+  "turrel2age5": {
+    "name": "Red Plasma Cannon",
+    "attack": 40,
+    "gold": 40000,
+    "range": 800,
+    "attackFrameCount": 3,
+    "speed": 10
+  },
+  "turrel3age5": {
+    "name": "Blue Plasma Cannon",
+    "attack": 60,
+    "gold": 100000,
+    "range": 800,
+    "attackFrameCount": 3,
+    "speed": 10
+  },
+  "specialCooldown": 47,
+  "timelineforbase": {
+    "complexity1": [25, 75, 50, 50, 25, 75, 50, 50, 25, 75, 50, 50, 125, 50, 25, 125, 40, 240],
+    "complexity2": [25, 75, 50, 70, 25, 75, 50, 70, 25, 75, 50, 70, 125, 50, 25, 145, 40, 240],
+    "complexity3": [25, 75, 50, 70, 25, 75, 50, 70, 25, 75, 50, 70, 125, 50, 25, 145, 40, 240]
+  }
+}
